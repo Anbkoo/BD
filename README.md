@@ -15,14 +15,14 @@ Database lab1, FAM
 
 <h4 align="center">Концептуальна модель учбової предметної області "Аеропорт"</h4>
 <p align="center">
-<img src=images/er_sсheme.png/>
+<img src=images/er_scheme.png/>
 </p>
 <h4 align="center">Опис структури БД "Аеропорт"</h4>
 
 <p align="center">
-<img src=images/info.png/>
+<img src=images/tables_info.jpg/>
 </p>
 <h4 align="center">Структура БД "Аеропорт"</h4>
 <p align="center">
-<img src=images/tables.png/>
+<img src=images/tables.jpg/>
 </p>
